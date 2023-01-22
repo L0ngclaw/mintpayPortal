@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="42.412" viewBox="0 0 45 42.412">
+  <g id="speech-bubble" transform="translate(0 -12.271)">
+    <path id="Path_377" data-name="Path 377" d="M36.555,26.017c0,7.59-8.182,13.741-18.278,13.741a23.161,23.161,0,0,1-8.036-1.4C4.492,42.527.413,41,.413,41A11.787,11.787,0,0,0,4.8,35.3,12.07,12.07,0,0,1,0,26.017c0-7.6,8.182-13.746,18.278-13.746s18.277,6.15,18.277,13.746Z" fill="#eeefee"/>
+    <g id="Group_37" data-name="Group 37" transform="translate(7.028 23.928)">
+      <path id="Path_378" data-name="Path 378" d="M70.815,124.888a2.085,2.085,0,1,1-2.085-2.085A2.085,2.085,0,0,1,70.815,124.888Z" transform="translate(-66.644 -122.803)" fill="#004371"/>
+      <path id="Path_379" data-name="Path 379" d="M157.727,124.888a2.085,2.085,0,1,1-2.085-2.085A2.085,2.085,0,0,1,157.727,124.888Z" transform="translate(-144.39 -122.803)" fill="#004371"/>
+      <path id="Path_380" data-name="Path 380" d="M244.639,124.888a2.085,2.085,0,1,1-2.085-2.085A2.085,2.085,0,0,1,244.639,124.888Z" transform="translate(-222.136 -122.803)" fill="#004371"/>
+    </g>
+    <path id="Path_381" data-name="Path 381" d="M140.13,198.458c0,6.275,6.764,11.36,15.111,11.36a19.146,19.146,0,0,0,6.644-1.158c4.752,3.447,8.125,2.182,8.125,2.182a9.745,9.745,0,0,1-3.631-4.706,9.973,9.973,0,0,0,3.973-7.678c0-6.28-6.764-11.364-15.111-11.364S140.13,192.178,140.13,198.458Z" transform="translate(-125.352 -156.386)" fill="#f6c863"/>
+    <circle id="Ellipse_56" data-name="Ellipse 56" cx="1.733" cy="1.733" r="1.733" transform="translate(35.767 40.337)" fill="#004371"/>
+    <circle id="Ellipse_57" data-name="Ellipse 57" cx="1.733" cy="1.733" r="1.733" transform="translate(28.157 40.337)" fill="#004371"/>
+    <circle id="Ellipse_58" data-name="Ellipse 58" cx="1.733" cy="1.733" r="1.733" transform="translate(20.546 40.337)" fill="#004371"/>
+  </g>
+</svg>
