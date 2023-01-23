@@ -1,15 +1,13 @@
 import React from 'react'
 import AccountSummery from '../components/Home/AccountSummery'
-import Header from '../components/Home/Header'
 import Offer from '../components/Home/offer'
 import Welcome from '../components/Home/Welcome'
-import PendingPayements from '../components/pendingPayments/PendingPayments'
+import PendingPayementsComponent from '../components/pendingPayments/PendingPaymentsComponent'
 
 const Home = () => {
     return (
         <div className='flex-auto items-center  justify-center   '>
             <div className='flex flex-col space-y-8 bg-slate-200 px-8 pb-8 '>
-                <Header />
                 <div className={`flex flex-col space-y-5 xl:space-y-0 xl:flex-row xl:space-x-4 `}>
                     <div className={`xl:-order-2 grow  `}>
                         <Welcome />
@@ -36,7 +34,7 @@ const Home = () => {
                 
                 </div> */}
 
-                <PendingPayements />
+                <PendingPayementsComponent />
             </div>
         </div>
     )

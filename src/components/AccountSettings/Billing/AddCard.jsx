@@ -3,7 +3,7 @@ import { QuestionMarkCircleIcon } from '@heroicons/react/20/solid'
 import visa from '../components/images/visa.svg'
 import master from '../components/images/mastercard.svg'
 import seylan from '../components/images/seylan-logo.png'
-import masterc from '../components/images/master-card-secure-logo.png'
+import masterc from '../src/components/images/master-card-secure-logo.png'
 
 function AddCard() {
     return (

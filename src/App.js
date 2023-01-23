@@ -5,24 +5,24 @@ import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Test from "./pages/Test";
 import Contact from "./pages/Contact";
-import PendingPayements from "./pages/PendingPayements";
+import PendingPayments from "./pages/PendingPayments";
 import AccountSettings from "./pages/AccountSettings";
 
 const App = () => {
   return (
     <>
-      {/* <Sidebar> */}
       <Router>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/login" element={<Login />} />
-          <Route path="/test" element={<Test />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/pendingpayements" element={<PendingPayements />} />
-          <Route path="/accountsettings" element={<AccountSettings />} />
-        </Routes>
+        <Sidebar>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/login" element={<Login />} />
+            <Route path="/test" element={<Test />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="/pendingpayements" element={<PendingPayments />} />
+            <Route path="/accountsettings" element={<AccountSettings />} />
+          </Routes>
+        </Sidebar>
       </Router>
-      {/* </Sidebar> */}
     </>
   );
 };

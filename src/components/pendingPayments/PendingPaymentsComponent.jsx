@@ -41,7 +41,7 @@ function PendingPayements() {
                                 <th scope="col" className="px-6 py-3.5 xl:pl-16 xl:pr-16 lg:pl-12 text-left text-sm font-semibold text-gray-900">
                                     status
                                 </th>
-                                <th scope="col" className="px-6 py-3.5  xl:pl-16 xl:pr-16 lg:pl-16 text-left text-sm font-semibold text-gray-900">
+                                <th scope="col" className="px-6 py-3.5  xl:pl-16 xl:pr-16  text-left text-sm font-semibold text-gray-900">
                                     action
                                 </th>
 
