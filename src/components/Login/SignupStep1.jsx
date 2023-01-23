@@ -1,5 +1,5 @@
 import React from 'react'
-import ll from '../components/images/loginlogo.png'
+import ll from '../images/loginlogo.png'
 function SignupStep1() {
     return (
         <div className="flex bg-slate-300 items-center justify-center  min-h-screen " >
