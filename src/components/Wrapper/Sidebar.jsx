@@ -86,7 +86,7 @@ function Sidebar({ children }) {
     const [showSlider, setShowSlider] = useState(true)
     useEffect(() => {
         const path = location.pathname
-        if (path === '/login') {
+        if (path === '/login' || path === '/signup') {
             setShowSlider(false)
         }
     }, [location])

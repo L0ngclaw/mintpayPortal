@@ -7,6 +7,7 @@ import Test from "./pages/Test";
 import Contact from "./pages/Contact";
 import PendingPayments from "./pages/PendingPayments";
 import AccountSettings from "./pages/AccountSettings";
+import SignIn from "./pages/SignIn";
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
             <Route path="/contact" element={<Contact />} />
             <Route path="/pendingpayements" element={<PendingPayments />} />
             <Route path="/accountsettings" element={<AccountSettings />} />
+            <Route path="/signup" element={<SignIn />} />
           </Routes>
         </Sidebar>
       </Router>
